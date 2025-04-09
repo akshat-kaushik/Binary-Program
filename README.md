@@ -2,6 +2,8 @@
 <BR>
 <p>This is repo for beginner whose has some issue or problem in DIGITAL ELECTRONICS and programming , it is specially made for you to understand both Digital electronics and how it work in computer's. Using C ,I tried to make it as easy as possible.</p>
 <BR>
+<p>WE have to extra bonus programs "AllASCIIVal.c" will print all ASCII Value from 0 to 127 and "Check-Character.c" will check and gives the certain character value example:- 'A'=65 , 'a'=97 , etc.</p>
+<BR>
 <p>I have coded three very basic but important concept.</p>
 <BR>
 <ul>
