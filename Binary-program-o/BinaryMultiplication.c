@@ -8,12 +8,12 @@ int main ()
 {
     int arr[7] ;
     int brr[7] ;
-    printf("ENTER MULTIPLICANT\n");
+    printf("ENTER MULTIPLICANT IN BINARY\n");
     for(int i=0 ; i<7 ; i++)
     {
         scanf("%d",&arr[i]);
     }
-    printf("ENTER MULTIPLER\n");
+    printf("ENTER MULTIPLER IN BINARY\n");
     for(int j=0 ; j<7 ; j++)
     {
         scanf("%d",&brr[j]);
